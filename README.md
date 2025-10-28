@@ -4,7 +4,6 @@
 📚 This is a project that my partner and I created during our first year at university.
 
 🚀 Technologies Used:
-
 -🔥Purely C++
 ## Project Structure
 
