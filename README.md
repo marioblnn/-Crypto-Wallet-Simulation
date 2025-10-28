@@ -1,7 +1,8 @@
 # -Crypto-Wallet-Simulation
 📊 Pure C++ cryptocurrency and precious metals portfolio management system with real-time price tracking, transaction history, and CSV export capabilities
 📚 This is a project that my partner and I created during our first year at university.
-
+🚀 Technologies Used:
+-🔥Purely C++
 ## Project Structure
 
 ```
